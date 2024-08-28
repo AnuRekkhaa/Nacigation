@@ -4,7 +4,7 @@ import './Navbar.css'
 const Navbar = () => {
   return (
     <header className="header">
-        <a href="/" className="logo">Logo</a>
+        <a href="/" className="logo">ANU</a>
 
         <nav className="navbar">
             <a href="/">Home</a>
